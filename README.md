@@ -29,7 +29,7 @@ This project classifies cars as "Economical" or "Gas Guzzler" based on fuel cons
 
 ## Visualizations
 - [decision_tree.png](https://github.com/AndreySukhanov/ML_decision_tree_Car_efficiency/blob/9e07494ce86bc2678aa5562a79c02c2106d8622f/decision_tree.png)
-- [efficiency_scatter.png](#)
+- [efficiency_scatter.png](https://github.com/AndreySukhanov/ML_decision_tree_Car_efficiency/blob/7401d3f2432f42e7ff11ca80eaaf1aa067a9c716/efficiency_scatter.png)
 
 ## Notes
 This project uses a synthetic threshold (10 L/100 km) to define efficiency. For real-world applications, you can adjust the threshold or add more features like Acceleration or Model Year.
