@@ -28,7 +28,7 @@ This project classifies cars as "Economical" or "Gas Guzzler" based on fuel cons
 2. Run the script: `python car_efficiency_tree.py`
 
 ## Visualizations
-- [decision_tree.png](#)
+- [decision_tree.png](https://github.com/AndreySukhanov/ML_decision_tree_Car_efficiency/blob/9e07494ce86bc2678aa5562a79c02c2106d8622f/decision_tree.png)
 - [efficiency_scatter.png](#)
 
 ## Notes
